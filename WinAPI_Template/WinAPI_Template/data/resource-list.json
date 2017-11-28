@@ -1,0 +1,66 @@
+{
+    "global": {
+        "images": [
+        ]
+    },
+    "splash": {
+        "images": [
+        ],
+        "sounds":[
+        ]
+    },
+    "title": {
+        "images": [
+        ],
+        "sounds":[
+        ]
+    },
+    "loading": {
+        "images": [
+            {
+                "id": 0,
+                "key": "bg-gauge",
+                "filename": "bg-gauge.bmp",
+                "width": 200,
+                "height": 20
+            },
+            {
+                "id": 1,
+                "key": "fg-gauge",
+                "filename": "fg-gauge.bmp",
+                "width": 200,
+                "height": 20
+            },
+            {
+            	"id": 2,
+                "key": "Zelda-bg",
+                "filename": "Zelda-bg.bmp",
+                "width": 1280,
+                "height": 694
+            },
+            {
+            	"id": 3,
+                "key": "link-run",
+                "filename": "link-run.bmp",
+                "width": 286,
+                "height": 25
+            }
+        ]
+    },
+    "ending-credit":{
+        "images":[
+        ],
+        "sounds":[
+        ]
+    },
+    "cookie":{
+        "images":[
+        ]
+    },
+    "exit":{  
+    	"images":[
+    	],
+    	"sounds":[
+		]
+    }
+}
